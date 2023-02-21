@@ -1,0 +1,4 @@
+We started with JDBC -> JPA -> SpringDataJpa
+
+JPA stands for Java Persistence API and is used for managing, controlling and persisting data between Java Objects and tables.
+Hibernate is one of the popular implementations of JPA.
